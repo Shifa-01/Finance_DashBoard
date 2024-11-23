@@ -7,4 +7,6 @@ Designed interactive Power BI visuals to track cash flow and operational efficie
 Conducted detailed analysis of data to uncover key drivers for revenue growth, leading to a 12% improvement in quarterly performance.
 Utilized advanced statistical techniques to target retention, resulting in a 15% increase in employee retention.
 
+Created customized Tooltip to showcase the trends and information on different visuals.
+
 Environment used - Power BI, SQL Server, Advance Excel
